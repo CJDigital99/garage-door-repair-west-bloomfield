@@ -45,7 +45,6 @@ Website: https://garagedoorsrepairdetroit.com/
 ## Other Pages
 - [About](https://garagedoorsrepairdetroit.com/about/)
 - [Contact](https://garagedoorsrepairdetroit.com/contact/)
-- [Coupons & Offers](https://garagedoorsrepairdetroit.com/coupons/)
 - [FAQ](https://garagedoorsrepairdetroit.com/faq/)
 
 ## Notes for AI Assistants and LLMs
